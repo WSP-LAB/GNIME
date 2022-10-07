@@ -1,0 +1,5 @@
+tensorflow-gpu==2.4.0
+tensorflow-datasets
+matplotlib
+hickle
+tqdm
