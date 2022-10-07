@@ -131,3 +131,16 @@ Note that evaluation of each scenario requires training a dedicated ExpMI model,
 From our 5 experiements, GNIME defense achieves the following performance: (figure from paper)
 
 ![performance](img/eval.png)
+
+## Citation
+
+```
+@article{jeong2022learning,
+  title={Learning to Generate Inversion-Resistant Model Explanations},
+  author={Hoyong Jeong, Suyoung Lee, Sung Ju Hwang, and Sooel Son},
+  journal={Advances in Neural Information Processing Systems},
+  volume={?},
+  pages={?--?},
+  year={2022}
+}
+```
