@@ -7,9 +7,9 @@ This repository is the official implementation of `Generative Noise Injector for
 <br>
 
 <p float="left">
-<img src="img/celeba_lrp.png" width="300" />
-<img src="img/celeba_grad.png" width="300" />
-<img src="img/celeba_gradcam.png" width="300" />
+<img src="img/celeba_lrp.png" width="500" />
+<img src="img/celeba_grad.png" width="500" />
+<img src="img/celeba_gradcam.png" width="500" />
 </p>
 
 <br>
