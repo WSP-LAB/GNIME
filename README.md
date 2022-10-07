@@ -130,7 +130,7 @@ Note that evaluation of each scenario requires training a dedicated ExpMI model,
 
 From our 5 experiements, GNIME defense achieves the following performance: (figure from paper)
 
-![performance](img/eval.pdf)
+![performance](img/eval.png)
 
 ## Citation
 
