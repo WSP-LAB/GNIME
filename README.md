@@ -1,6 +1,6 @@
 # Learning to Generate Inversion-Resistant Model Explanations
 
-This repository is the official implementation of `Generative Noise Injector for Model Explanations (GNIME)` intoduced in [Learning to Generate Inversion-Resistant Model Explanations](https://github.com). 
+This repository is the official implementation of `Generative Noise Injector for Model Explanations (GNIME)` intoduced in [Learning to Generate Inversion-Resistant Model Explanations](https://openreview.net/forum?id=iy2G-yLGuku). 
 
 ![overview](img/overview.png)
 
